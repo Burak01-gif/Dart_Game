@@ -1,5 +1,5 @@
 
-package first_project;
+package Dart_Game;
 
 import java.util.Scanner;
 
