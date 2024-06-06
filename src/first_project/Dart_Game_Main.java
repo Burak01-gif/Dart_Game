@@ -3,7 +3,7 @@ package first_project;
 
 import java.util.Scanner;
 
-public class First_Project {
+public class Dart_Game_Main {
   
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);
